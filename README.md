@@ -1,6 +1,6 @@
 # 📸 Web Tabanlı Albüm ve Kayıt Sistemi (PHP & MySQL)
 
-Bu proje, Bootstrap 5 kullanılarak geliştirilmiş, responsive (mobil uyumlu) bir web uygulamasıdır. 
+Bu proje, Bootstrap 5 kullanılarak geliştirilmiş, responsive bir web uygulamasıdır. 
 
 ## 🚀 Proje İçeriği
 1. **Albüm Yönetim Sistemi (`index.php`):** İnternet üzerindeki görsellerin URL'leri ve açıklamaları ile eklendiği, listelendiği, güncellenebildiği ve silinebildiği (CRUD) kart tabanlı bir galeri.
